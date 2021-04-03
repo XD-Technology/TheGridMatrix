@@ -10,6 +10,7 @@ namespace TheGridMatrix
             Application.Quit();
         }
 
+
         public void StartGame()
         {
             SceneManager.LoadScene("Game");
